@@ -1,0 +1,16 @@
+{
+  "targetFile": "/targets/targets.mind",
+  "onReacquire": "resume",
+  "schemes": [
+    {
+      "id": "scheme_001",
+      "targetIndex": 0,
+      "name": "1. Printing Cheeses",
+      "image": "/images/scheme_001.png",
+      "video": "/videos/scheme_001.mp4",
+      "imageWidth": 916,
+      "imageHeight": 536,
+      "videoRect": { "x": 0, "y": 0, "width": 1, "height": 1 }
+    }
+  ]
+}
